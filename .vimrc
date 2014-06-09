@@ -8,6 +8,4 @@ autocmd VimEnter * NERDTree
 autocmd VimEnter * wincmd p
 set tabstop=4
 autocmd FileType go setlocal shiftwidth=8 tabstop=8 softtabstop=8
-syntax enable
-set background=dark
-colorscheme solarized
+autocmd colo candy
