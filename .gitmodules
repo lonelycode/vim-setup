@@ -16,3 +16,6 @@
 [submodule "bundle/vim-sensible"]
 	path = bundle/vim-sensible
 	url = https://github.com/tpope/vim-sensible.git
+[submodule "bundle/pig.vim"]
+	path = bundle/pig.vim
+	url = https://github.com/motus/pig.vim.git
