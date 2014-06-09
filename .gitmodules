@@ -19,3 +19,6 @@
 [submodule "bundle/pig.vim"]
 	path = bundle/pig.vim
 	url = https://github.com/motus/pig.vim.git
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
